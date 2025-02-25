@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+otterai/__init__.py
+otterai/otterai.py
+otterai.egg-info/PKG-INFO
+otterai.egg-info/SOURCES.txt
+otterai.egg-info/dependency_links.txt
+otterai.egg-info/requires.txt
+otterai.egg-info/top_level.txt
